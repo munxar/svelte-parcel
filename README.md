@@ -1,6 +1,6 @@
 # svelte-parcel
 ```bash
-npm degit munxar/svelte-parcel svelte-parcel
+npx degit munxar/svelte-parcel svelte-parcel
 cd svelte-parcel
 npm i
 ```
