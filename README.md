@@ -1,4 +1,6 @@
 # svelte-parcel
+simple setup with parcel 2 and svelte.
+
 ```bash
 npx degit munxar/svelte-parcel svelte-parcel
 cd svelte-parcel
