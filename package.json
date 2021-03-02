@@ -1,10 +1,10 @@
 {
-  "name": "play",
+  "name": "svelte-parcel",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "",  
   "scripts": {
-    "dev": "parcel serve index.html"
+    "dev": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
   },
   "keywords": [],
   "author": "",
